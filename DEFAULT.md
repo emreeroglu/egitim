@@ -1,1 +1,1 @@
-ilk düzenleme yapıldı
+Proje bilgileri bu dosyada bulunacak
