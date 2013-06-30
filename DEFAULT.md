@@ -1,1 +1,1 @@
-default
+ilk düzenleme yapıldı
